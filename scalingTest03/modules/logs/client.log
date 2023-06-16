@@ -1,0 +1,207 @@
+2023-06-16 10:08:58,370 - INFO - [Client] self.rate.value = 183
+2023-06-16 10:08:58,918 - INFO - [Client] amount of requests = 320
+2023-06-16 10:08:58,918 - INFO - [Client] max of latencies: 455.8 ms
+2023-06-16 10:08:58,918 - INFO - [Client] avg of latencies: 416.710 ms
+2023-06-16 10:08:58,919 - INFO - [Client] 99% quantile of latencies: 452.9 ms
+2023-06-16 10:08:59,373 - INFO - [Client] self.rate.value = 155
+2023-06-16 10:09:00,381 - INFO - [Client] self.rate.value = 132
+2023-06-16 10:09:01,388 - INFO - [Client] self.rate.value = 99
+2023-06-16 10:09:01,595 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:01,595 - INFO - [Client] max of latencies: 486.5 ms
+2023-06-16 10:09:01,595 - INFO - [Client] avg of latencies: 430.409 ms
+2023-06-16 10:09:01,595 - INFO - [Client] 99% quantile of latencies: 481.2 ms
+2023-06-16 10:09:02,396 - INFO - [Client] self.rate.value = 96
+2023-06-16 10:09:03,405 - INFO - [Client] self.rate.value = 130
+2023-06-16 10:09:04,412 - INFO - [Client] self.rate.value = 174
+2023-06-16 10:09:04,558 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:04,558 - INFO - [Client] max of latencies: 489.7 ms
+2023-06-16 10:09:04,558 - INFO - [Client] avg of latencies: 433.666 ms
+2023-06-16 10:09:04,558 - INFO - [Client] 99% quantile of latencies: 477.7 ms
+2023-06-16 10:09:05,418 - INFO - [Client] self.rate.value = 183
+2023-06-16 10:09:06,426 - INFO - [Client] self.rate.value = 197
+2023-06-16 10:09:06,519 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:06,519 - INFO - [Client] max of latencies: 453.2 ms
+2023-06-16 10:09:06,519 - INFO - [Client] avg of latencies: 422.745 ms
+2023-06-16 10:09:06,519 - INFO - [Client] 99% quantile of latencies: 451.5 ms
+2023-06-16 10:09:07,429 - INFO - [Client] self.rate.value = 140
+2023-06-16 10:09:08,430 - INFO - [Client] self.rate.value = 101
+2023-06-16 10:09:08,925 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:08,925 - INFO - [Client] max of latencies: 472.4 ms
+2023-06-16 10:09:08,925 - INFO - [Client] avg of latencies: 426.335 ms
+2023-06-16 10:09:08,925 - INFO - [Client] 99% quantile of latencies: 465.5 ms
+2023-06-16 10:09:09,440 - INFO - [Client] self.rate.value = 100
+2023-06-16 10:09:10,440 - INFO - [Client] self.rate.value = 97
+2023-06-16 10:09:11,449 - INFO - [Client] self.rate.value = 112
+2023-06-16 10:09:12,253 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:12,253 - INFO - [Client] max of latencies: 492.0 ms
+2023-06-16 10:09:12,253 - INFO - [Client] avg of latencies: 437.312 ms
+2023-06-16 10:09:12,253 - INFO - [Client] 99% quantile of latencies: 486.7 ms
+2023-06-16 10:09:12,450 - INFO - [Client] self.rate.value = 166
+2023-06-16 10:09:13,460 - INFO - [Client] self.rate.value = 199
+2023-06-16 10:09:14,306 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:14,306 - INFO - [Client] max of latencies: 459.3 ms
+2023-06-16 10:09:14,306 - INFO - [Client] avg of latencies: 424.293 ms
+2023-06-16 10:09:14,306 - INFO - [Client] 99% quantile of latencies: 456.6 ms
+2023-06-16 10:09:14,462 - INFO - [Client] self.rate.value = 179
+2023-06-16 10:09:15,467 - INFO - [Client] self.rate.value = 167
+2023-06-16 10:09:16,344 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:16,344 - INFO - [Client] max of latencies: 463.7 ms
+2023-06-16 10:09:16,345 - INFO - [Client] avg of latencies: 423.924 ms
+2023-06-16 10:09:16,345 - INFO - [Client] 99% quantile of latencies: 453.9 ms
+2023-06-16 10:09:16,477 - INFO - [Client] self.rate.value = 127
+2023-06-16 10:09:17,479 - INFO - [Client] self.rate.value = 78
+2023-06-16 10:09:18,479 - INFO - [Client] self.rate.value = 102
+2023-06-16 10:09:19,481 - INFO - [Client] self.rate.value = 112
+2023-06-16 10:09:19,521 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:19,521 - INFO - [Client] max of latencies: 492.8 ms
+2023-06-16 10:09:19,521 - INFO - [Client] avg of latencies: 435.612 ms
+2023-06-16 10:09:19,521 - INFO - [Client] 99% quantile of latencies: 482.1 ms
+2023-06-16 10:09:20,482 - INFO - [Client] self.rate.value = 174
+2023-06-16 10:09:21,484 - INFO - [Client] self.rate.value = 176
+2023-06-16 10:09:22,101 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:22,101 - INFO - [Client] max of latencies: 490.2 ms
+2023-06-16 10:09:22,101 - INFO - [Client] avg of latencies: 429.015 ms
+2023-06-16 10:09:22,101 - INFO - [Client] 99% quantile of latencies: 469.6 ms
+2023-06-16 10:09:22,495 - INFO - [Client] self.rate.value = 237
+2023-06-16 10:09:23,499 - INFO - [Client] self.rate.value = 166
+2023-06-16 10:09:23,948 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:23,948 - INFO - [Client] max of latencies: 456.9 ms
+2023-06-16 10:09:23,948 - INFO - [Client] avg of latencies: 422.522 ms
+2023-06-16 10:09:23,948 - INFO - [Client] 99% quantile of latencies: 451.9 ms
+2023-06-16 10:09:24,502 - INFO - [Client] self.rate.value = 130
+2023-06-16 10:09:25,511 - INFO - [Client] self.rate.value = 102
+2023-06-16 10:09:26,514 - INFO - [Client] self.rate.value = 100
+2023-06-16 10:09:26,926 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:26,926 - INFO - [Client] max of latencies: 485.7 ms
+2023-06-16 10:09:26,926 - INFO - [Client] avg of latencies: 434.109 ms
+2023-06-16 10:09:26,926 - INFO - [Client] 99% quantile of latencies: 475.9 ms
+2023-06-16 10:09:27,516 - INFO - [Client] self.rate.value = 131
+2023-06-16 10:09:28,519 - INFO - [Client] self.rate.value = 148
+2023-06-16 10:09:29,521 - INFO - [Client] self.rate.value = 210
+2023-06-16 10:09:29,696 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:29,696 - INFO - [Client] max of latencies: 479.0 ms
+2023-06-16 10:09:29,696 - INFO - [Client] avg of latencies: 430.538 ms
+2023-06-16 10:09:29,696 - INFO - [Client] 99% quantile of latencies: 471.5 ms
+2023-06-16 10:09:30,524 - INFO - [Client] self.rate.value = 209
+2023-06-16 10:09:31,525 - INFO - [Client] self.rate.value = 158
+2023-06-16 10:09:31,590 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:31,590 - INFO - [Client] max of latencies: 458.7 ms
+2023-06-16 10:09:31,590 - INFO - [Client] avg of latencies: 422.805 ms
+2023-06-16 10:09:31,590 - INFO - [Client] 99% quantile of latencies: 452.0 ms
+2023-06-16 10:09:32,528 - INFO - [Client] self.rate.value = 138
+2023-06-16 10:09:33,530 - INFO - [Client] self.rate.value = 133
+2023-06-16 10:09:34,282 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:34,283 - INFO - [Client] max of latencies: 477.8 ms
+2023-06-16 10:09:34,283 - INFO - [Client] avg of latencies: 431.805 ms
+2023-06-16 10:09:34,283 - INFO - [Client] 99% quantile of latencies: 474.9 ms
+2023-06-16 10:09:34,535 - INFO - [Client] self.rate.value = 105
+2023-06-16 10:09:35,541 - INFO - [Client] self.rate.value = 117
+2023-06-16 10:09:36,546 - INFO - [Client] self.rate.value = 140
+2023-06-16 10:09:37,548 - INFO - [Client] self.rate.value = 191
+2023-06-16 10:09:37,581 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:37,581 - INFO - [Client] max of latencies: 489.9 ms
+2023-06-16 10:09:37,581 - INFO - [Client] avg of latencies: 434.678 ms
+2023-06-16 10:09:37,581 - INFO - [Client] 99% quantile of latencies: 477.7 ms
+2023-06-16 10:09:38,556 - INFO - [Client] self.rate.value = 202
+2023-06-16 10:09:39,335 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:39,335 - INFO - [Client] max of latencies: 454.9 ms
+2023-06-16 10:09:39,335 - INFO - [Client] avg of latencies: 423.605 ms
+2023-06-16 10:09:39,335 - INFO - [Client] 99% quantile of latencies: 453.2 ms
+2023-06-16 10:09:39,561 - INFO - [Client] self.rate.value = 194
+2023-06-16 10:09:40,566 - INFO - [Client] self.rate.value = 117
+2023-06-16 10:09:41,569 - INFO - [Client] self.rate.value = 122
+2023-06-16 10:09:41,696 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:41,696 - INFO - [Client] max of latencies: 470.9 ms
+2023-06-16 10:09:41,697 - INFO - [Client] avg of latencies: 427.414 ms
+2023-06-16 10:09:41,697 - INFO - [Client] 99% quantile of latencies: 465.1 ms
+2023-06-16 10:09:42,570 - INFO - [Client] self.rate.value = 85
+2023-06-16 10:09:43,578 - INFO - [Client] self.rate.value = 109
+2023-06-16 10:09:44,580 - INFO - [Client] self.rate.value = 136
+2023-06-16 10:09:44,871 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:44,871 - INFO - [Client] max of latencies: 489.4 ms
+2023-06-16 10:09:44,871 - INFO - [Client] avg of latencies: 435.934 ms
+2023-06-16 10:09:44,871 - INFO - [Client] 99% quantile of latencies: 479.9 ms
+2023-06-16 10:09:45,585 - INFO - [Client] self.rate.value = 176
+2023-06-16 10:09:46,591 - INFO - [Client] self.rate.value = 211
+2023-06-16 10:09:47,388 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:47,388 - INFO - [Client] max of latencies: 466.1 ms
+2023-06-16 10:09:47,388 - INFO - [Client] avg of latencies: 425.586 ms
+2023-06-16 10:09:47,388 - INFO - [Client] 99% quantile of latencies: 461.0 ms
+2023-06-16 10:09:47,591 - INFO - [Client] self.rate.value = 205
+2023-06-16 10:09:48,592 - INFO - [Client] self.rate.value = 180
+2023-06-16 10:09:49,021 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:49,021 - INFO - [Client] max of latencies: 455.2 ms
+2023-06-16 10:09:49,021 - INFO - [Client] avg of latencies: 423.723 ms
+2023-06-16 10:09:49,021 - INFO - [Client] 99% quantile of latencies: 451.5 ms
+2023-06-16 10:09:49,594 - INFO - [Client] self.rate.value = 168
+2023-06-16 10:09:50,598 - INFO - [Client] self.rate.value = 158
+2023-06-16 10:09:51,604 - INFO - [Client] self.rate.value = 100
+2023-06-16 10:09:51,626 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:51,626 - INFO - [Client] max of latencies: 464.8 ms
+2023-06-16 10:09:51,626 - INFO - [Client] avg of latencies: 425.592 ms
+2023-06-16 10:09:51,626 - INFO - [Client] 99% quantile of latencies: 457.5 ms
+2023-06-16 10:09:52,609 - INFO - [Client] self.rate.value = 100
+2023-06-16 10:09:53,616 - INFO - [Client] self.rate.value = 106
+2023-06-16 10:09:54,622 - INFO - [Client] self.rate.value = 157
+2023-06-16 10:09:54,835 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:54,836 - INFO - [Client] max of latencies: 501.1 ms
+2023-06-16 10:09:54,836 - INFO - [Client] avg of latencies: 436.708 ms
+2023-06-16 10:09:54,836 - INFO - [Client] 99% quantile of latencies: 488.7 ms
+2023-06-16 10:09:55,624 - INFO - [Client] self.rate.value = 181
+2023-06-16 10:09:56,627 - INFO - [Client] self.rate.value = 163
+2023-06-16 10:09:56,758 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:56,758 - INFO - [Client] max of latencies: 461.2 ms
+2023-06-16 10:09:56,758 - INFO - [Client] avg of latencies: 425.601 ms
+2023-06-16 10:09:56,758 - INFO - [Client] 99% quantile of latencies: 459.7 ms
+2023-06-16 10:09:57,632 - INFO - [Client] self.rate.value = 177
+2023-06-16 10:09:58,637 - INFO - [Client] self.rate.value = 169
+2023-06-16 10:09:59,081 - INFO - [Client] amount of requests = 320
+2023-06-16 10:09:59,081 - INFO - [Client] max of latencies: 458.1 ms
+2023-06-16 10:09:59,081 - INFO - [Client] avg of latencies: 423.703 ms
+2023-06-16 10:09:59,081 - INFO - [Client] 99% quantile of latencies: 455.1 ms
+2023-06-16 10:09:59,642 - INFO - [Client] self.rate.value = 96
+2023-06-16 10:10:00,650 - INFO - [Client] self.rate.value = 80
+2023-06-16 10:10:01,655 - INFO - [Client] self.rate.value = 92
+2023-06-16 10:10:02,134 - INFO - [Client] amount of requests = 320
+2023-06-16 10:10:02,134 - INFO - [Client] max of latencies: 498.5 ms
+2023-06-16 10:10:02,134 - INFO - [Client] avg of latencies: 436.851 ms
+2023-06-16 10:10:02,134 - INFO - [Client] 99% quantile of latencies: 496.2 ms
+2023-06-16 10:10:02,661 - INFO - [Client] self.rate.value = 132
+2023-06-16 10:10:03,668 - INFO - [Client] self.rate.value = 170
+2023-06-16 10:10:04,664 - INFO - [Client] amount of requests = 320
+2023-06-16 10:10:04,664 - INFO - [Client] max of latencies: 476.5 ms
+2023-06-16 10:10:04,664 - INFO - [Client] avg of latencies: 427.627 ms
+2023-06-16 10:10:04,664 - INFO - [Client] 99% quantile of latencies: 466.8 ms
+2023-06-16 10:10:04,671 - INFO - [Client] self.rate.value = 189
+2023-06-16 10:10:05,675 - INFO - [Client] self.rate.value = 169
+2023-06-16 10:10:06,677 - INFO - [Client] self.rate.value = 171
+2023-06-16 10:10:06,702 - INFO - [Client] amount of requests = 320
+2023-06-16 10:10:06,702 - INFO - [Client] max of latencies: 453.5 ms
+2023-06-16 10:10:06,702 - INFO - [Client] avg of latencies: 423.764 ms
+2023-06-16 10:10:06,702 - INFO - [Client] 99% quantile of latencies: 451.1 ms
+2023-06-16 10:10:07,682 - INFO - [Client] self.rate.value = 119
+2023-06-16 10:10:08,683 - INFO - [Client] self.rate.value = 66
+2023-06-16 10:10:09,532 - INFO - [Client] amount of requests = 320
+2023-06-16 10:10:09,532 - INFO - [Client] max of latencies: 500.2 ms
+2023-06-16 10:10:09,532 - INFO - [Client] avg of latencies: 433.612 ms
+2023-06-16 10:10:09,532 - INFO - [Client] 99% quantile of latencies: 492.7 ms
+2023-06-16 10:10:09,688 - INFO - [Client] self.rate.value = 102
+2023-06-16 10:10:10,691 - INFO - [Client] self.rate.value = 141
+2023-06-16 10:10:11,695 - INFO - [Client] self.rate.value = 191
+2023-06-16 10:10:12,299 - INFO - [Client] amount of requests = 320
+2023-06-16 10:10:12,300 - INFO - [Client] max of latencies: 495.8 ms
+2023-06-16 10:10:12,300 - INFO - [Client] avg of latencies: 430.862 ms
+2023-06-16 10:10:12,300 - INFO - [Client] 99% quantile of latencies: 482.5 ms
+2023-06-16 10:10:12,701 - INFO - [Client] self.rate.value = 156
+2023-06-16 10:10:13,711 - INFO - [Client] self.rate.value = 217
+2023-06-16 10:10:14,403 - INFO - [Client] all requests were sent
+2023-06-16 10:10:14,499 - INFO - [Client] amount of requests = 320
+2023-06-16 10:10:14,499 - INFO - [Client] max of latencies: 458.1 ms
+2023-06-16 10:10:14,499 - INFO - [Client] avg of latencies: 424.931 ms
+2023-06-16 10:10:14,499 - INFO - [Client] 99% quantile of latencies: 455.6 ms
+2023-06-16 10:10:14,586 - INFO - [Client] draw the data successfully
+2023-06-16 10:10:14,891 - INFO - [Client] amount of requests = 80
+2023-06-16 10:10:14,891 - INFO - [Client] max of latencies: 508.5 ms
+2023-06-16 10:10:14,891 - INFO - [Client] avg of latencies: 430.184 ms
+2023-06-16 10:10:14,891 - INFO - [Client] 99% quantile of latencies: 508.5 ms
+2023-06-16 10:10:14,891 - INFO - [Client] server is stopped
